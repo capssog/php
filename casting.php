@@ -12,7 +12,7 @@ var_dump( $numerito );*/
 //$dias = (int) $dias;
 
 //var_dump( $dias );
-
+//qwerty
 $banderita = "";
 
 $banderita = (bool) $banderita;
