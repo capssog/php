@@ -20,5 +20,5 @@ $personas = array(
     ),
 );
 echo "\n";
-echo "La Informacion de Carlos es : Edad: " . $personas["Carlos"]["edad"] . "Apellido: " . $personas["Carlos"]["apellido"] ;
+echo "La Informacion de Carlos es : Edad: " . $personas["Carlos"]["edad"] . " " . "Apellido: " . $personas["Carlos"]["apellido"] ;
 echo "\n";
